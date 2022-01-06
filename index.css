@@ -1,0 +1,46 @@
+.p1{
+    display: none;
+    border: 3px solid black;
+    border-radius: 22px;
+    padding:23px;
+    text-align: center;
+}
+
+.p2{
+    display: none;
+    border: 3px solid black;
+    border-radius: 22px;
+    padding:23px;
+    text-align: center;
+}
+
+.con2{
+    display: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 24px;
+}
+
+.player1{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.player2{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+div#p1 {
+    margin: 4px;
+    background-color:yellow;
+}
+
+div#p2 {
+    margin: 4px;
+    background-color:yellow;
+}
