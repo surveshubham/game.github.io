@@ -1,3 +1,6 @@
+body{
+    background-color: black
+}
 .p1{
     display: none;
     border: 3px solid black;
@@ -47,4 +50,10 @@ div#p2 {
 
 .winner{
     display: none;
+}
+
+button#start {
+    margin-top: 233px;
+    padding: 26px;
+    background-color:greenyellow;
 }
