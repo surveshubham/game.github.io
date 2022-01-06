@@ -44,3 +44,7 @@ div#p2 {
     margin: 4px;
     background-color:yellow;
 }
+
+.winner{
+    display: none;
+}
